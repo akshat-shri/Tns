@@ -1,1 +1,0 @@
-package com.arya.inheritance.single;
